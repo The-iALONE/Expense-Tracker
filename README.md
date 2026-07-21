@@ -29,6 +29,15 @@ The purpose of this project was to learn, practice, and strengthen my C# skills 
   - balance
   - total expenses by category
 - **Monthly Report**
+## Architecture
+
+The project follows a layered structure:
+
+- ConsoleUi: Handles user interaction
+- TransactionService: Contains business logic
+- ReportService: Generates financial reports
+- IStorage: Defines storage contract
+- JsonStorage: Handles data persistence
 ## What I Learned
 
 - Financial Data Modeling
@@ -55,8 +64,7 @@ The purpose of this project was to learn, practice, and strengthen my C# skills 
 - Refactoring
 ## Technologies
 
-- C#
-- .NET
-- JSON
-- LINQ
-- SOLID
+- .NET 10
+- Console Application
+- Object-Oriented Programing
+- File I/O
