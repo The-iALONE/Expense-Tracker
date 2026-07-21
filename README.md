@@ -21,7 +21,7 @@ The purpose of this project was to learn, practice, and strengthen my C# skills 
   - type (Income - Expense)
   - category
   - this month transactions
-  - transactions between two month
+  - transactions between two dates
   - transactions more than user input amount
 - **Financial Reports:**
   - total income
@@ -49,7 +49,7 @@ The purpose of this project was to learn, practice, and strengthen my C# skills 
 - Generic Interfaces ("IStorage<T>")
 - Dependency Injection
 - SOLID Principles
-- Clean Architecture
+- Clean Code & Software Architecture
 - JSON Data Persistence
 - Validation
 - Refactoring
