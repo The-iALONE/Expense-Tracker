@@ -80,7 +80,7 @@ namespace Expense_Tracker.Ui
             Console.WriteLine("│");
             Console.WriteLine("├── 3. This month");
             Console.WriteLine("│");
-            Console.WriteLine("├── 4. Between two month");
+            Console.WriteLine("├── 4. Between two dates");
             Console.WriteLine("│");
             Console.WriteLine("├── 5. Expenses more than");
             Console.WriteLine("│");
