@@ -33,11 +33,11 @@ The purpose of this project was to learn, practice, and strengthen my C# skills 
 
 The project follows a layered structure:
 
-- ConsoleUi: Handles user interaction
-- TransactionService: Contains business logic
-- ReportService: Generates financial reports
-- IStorage: Defines storage contract
-- JsonStorage: Handles data persistence
+- `ConsoleUi`: Handles user interaction
+- `TransactionService`: Contains business logic
+- `ReportService`: Generates financial reports
+- `IStorage`: Defines storage contract
+- `JsonStorage`: Handles data persistence
 ## What I Learned
 
 - Financial Data Modeling
